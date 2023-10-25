@@ -1,0 +1,17 @@
+{
+    "name": "vendor/amine",
+    "autoload": {
+        "psr-4": {
+            "MaCalculatrice\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Amine Cheraitia",
+            "email": "amine-cheraitia@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    }
+}
