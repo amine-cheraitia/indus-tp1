@@ -2,7 +2,7 @@
 
 class DB
 {
-
+    /*  */
     private $bdd;
 
     public function __construct()
